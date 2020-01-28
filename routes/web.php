@@ -31,6 +31,14 @@ Route::get('/belajar3', function() {
 	echo "belajar PHP buat test 003";
 });
 
-Route::get('/test', function () {
-    return view('test');
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/home', function () {
+    return view('home');
 });
