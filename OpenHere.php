@@ -1,0 +1,1 @@
+hmm maaf harusnya hari ini udah beres CRUD tapi tadi pas di push gagal dan pas di git add gagal terus, nanti malam saya akan lanjutkan tugas ini, semoga malam ini beres. terima kasih, maaf sebelumnya, Have a nice day!
