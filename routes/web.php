@@ -42,3 +42,8 @@ Route::get('/about', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+Route::get('/',function () {
+    echo 'Hello Wordl!';
+});
+
